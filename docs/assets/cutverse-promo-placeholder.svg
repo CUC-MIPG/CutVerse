@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="CutVerse Promo Placeholder">
+  <rect width="1280" height="720" fill="#0f172a"/>
+  <rect x="220" y="120" width="840" height="480" rx="18" fill="#1e293b" stroke="#334155" stroke-width="3"/>
+  <polygon points="590,300 590,420 710,360" fill="#f8fafc"/>
+  <text x="50%" y="560" dominant-baseline="middle" text-anchor="middle" fill="#cbd5e1" font-size="36" font-family="Arial, Helvetica, sans-serif">CutVerse Promo Video Placeholder</text>
+</svg>
