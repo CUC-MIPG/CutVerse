@@ -1,13 +1,8 @@
-<table align="center">
-  <tr>
-    <td>
-      <img src="docs/assets/cutverse-logo.png" alt="CutVerse Logo" width="90">
-    </td>
-    <td>
-      <h1>CutVerse</h1>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="docs/assets/cutverse-logo.png" alt="CutVerse Logo" width="110">
+</p>
+
+<h1 align="center"><i>CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing</i></h1>
 
 <p align="center">
   <a href="https://github.com/CUC-MIPG/CutVerse">Project Page</a> •
