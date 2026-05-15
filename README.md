@@ -56,6 +56,10 @@ CutVerse currently involves professional workflows across:
 - ComfyUI
 - Keling
 
+<p align="center">
+  <img src="docs/assets/pie-0330.png" alt="CutVerse Task Distribution" width="85%">
+</p>
+
 ## Infrastructure
 
 CutVerse is built as a robust and scalable benchmark stack:
@@ -64,20 +68,14 @@ CutVerse is built as a robust and scalable benchmark stack:
 2. Parser that synchronizes screen recordings and low-level interaction logs.
 3. Milestone QA evaluator for fine-grained online trajectory assessment.
 
-Human-alignment study (300 trajectories reported in paper):
 
-- GPT-5.4 evaluator agreement: 98.3%
-- Claude-4.6 evaluator agreement: 99.0%
-
-## Paper Figures
-
-**Figure 1. CutVerse overview**
+**CutVerse overview**
 
 <p align="center">
   <img src="docs/assets/paper-fig1.png" alt="CutVerse Paper Figure 1" width="100%">
 </p>
 
-**Figure 2. Data and evaluation pipeline**
+**Data and evaluation pipeline**
 
 <p align="center">
   <img src="docs/assets/paper-fig2.png" alt="CutVerse Paper Figure 2" width="100%">
