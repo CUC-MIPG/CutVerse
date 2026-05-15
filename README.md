@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://github.com/CUC-MIPG/CutVerse">Project Page</a> •
   <a href="PROJECT_BRIEF.md">Project Brief</a> •
-  <a href="ROADMAP.md">Roadmap</a> •
-  <a href="#promo-video">Promo Video</a>
+  <a href="ROADMAP.md">Roadmap</a>
 </p>
 
 **TL;DR:** CutVerse is a compositional GUI-agent benchmark for media post-production editing, targeting long-horizon, cross-application, multimodal workflows in real professional software.
@@ -18,7 +17,7 @@
 </p>
 
 ## Updates
-- 2026-05-09: Upgraded repository homepage to a promotion-ready layout with reserved promo video section.
+- 2026-05-09: Upgraded repository homepage to feature the paper figures and a promotion-ready layout.
 - 2026-05-08: Repository homepage aligned with paper scope and benchmark statistics.
 - 2026-04-24: Public intro repository initialized.
 
@@ -70,28 +69,18 @@ Human-alignment study (300 trajectories reported in paper):
 - GPT-5.4 evaluator agreement: 98.3%
 - Claude-4.6 evaluator agreement: 99.0%
 
-## Promo Video
+## Paper Figures
 
-> Reserved section for official CutVerse promotion video.
-
-Option A (local file in repo):
-
-```html
-<video controls width="100%" poster="docs/assets/cutverse-promo-placeholder.svg">
-  <source src="docs/assets/cutverse-promo.mp4" type="video/mp4">
-</video>
-```
-
-Option B (external video link):
-
-```markdown
-[Watch CutVerse Promo Video](https://your-video-link)
-```
-
-Current placeholder thumbnail:
+**Figure 1. CutVerse overview**
 
 <p align="center">
-  <img src="docs/assets/cutverse-promo-placeholder.svg" alt="CutVerse Promo Placeholder" width="80%">
+  <img src="docs/assets/paper-fig1.png" alt="CutVerse Paper Figure 1" width="100%">
+</p>
+
+**Figure 2. Data and evaluation pipeline**
+
+<p align="center">
+  <img src="docs/assets/paper-fig2.png" alt="CutVerse Paper Figure 2" width="100%">
 </p>
 
 ## Repository Status
