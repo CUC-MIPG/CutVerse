@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/title.png" alt="CutVerse Title" width="420">
+  <img src="docs/assets/title.png" alt="CutVerse Title" width="100%">
 </p>
 
 <p align="center">
