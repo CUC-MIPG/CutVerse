@@ -1,15 +1,6 @@
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-    <tr style="border: none;">
-      <td valign="middle" style="border: none; padding-right: 10px;">
-        <img src="docs/assets/cutverse-logo.png" alt="CutVerse Logo" width="64">
-      </td>
-      <td valign="middle" style="border: none;">
-        <h1 align="left">CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing</h1>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="docs/assets/title.png" alt="CutVerse Title" width="420">
+</p>
 
 <p align="center">
   <a href="https://github.com/CUC-MIPG/CutVerse">Project Page</a> •
