@@ -1,8 +1,13 @@
-<p align="center">
-  <img src="docs/assets/cutverse-logo.png" alt="CutVerse Logo" width="110">
-</p>
-
-<h1 align="center"><i>CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing</i></h1>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td valign="middle" width="92">
+      <img src="docs/assets/cutverse-logo.png" alt="CutVerse Logo" width="86">
+    </td>
+    <td valign="middle">
+      <h1><i>CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing</i></h1>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/CUC-MIPG/CutVerse">Project Page</a> •
@@ -30,7 +35,11 @@ CutVerse benchmarks what current GUI-agent evaluations often miss: dense creativ
 - Milestone-driven trajectory verification beyond binary pass/fail.
 - Scalable Windows-VM infrastructure for reproducible online evaluation.
 
-## Task Coverage
+## Task and Software Coverage
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 CutVerse covers end-to-end media post-production tasks, including:
 
@@ -44,8 +53,6 @@ CutVerse covers end-to-end media post-production tasks, including:
 - Launch and setup
 - Generative workflow
 
-## Software Coverage
-
 CutVerse currently involves professional workflows across:
 
 - Adobe Premiere Pro
@@ -56,9 +63,14 @@ CutVerse currently involves professional workflows across:
 - ComfyUI
 - Keling
 
-<p align="center">
-  <img src="docs/assets/pie-0330.png" alt="CutVerse Task Distribution" width="85%">
-</p>
+    </td>
+    <td valign="top" width="40%">
+      <p align="center">
+        <img src="docs/assets/pie-0330.png" alt="CutVerse Task Distribution" width="72%">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Infrastructure
 
